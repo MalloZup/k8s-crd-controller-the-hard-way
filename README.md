@@ -9,6 +9,10 @@ Feel free to spend pull-request.
 https://github.com/kubernetes/sample-controller
 
 
+# usefull k8s-go-client examples
+https://github.com/kubernetes/client-go/tree/master/examples
+
+
 # client unter the hood
 https://github.com/kubernetes/sample-controller/blob/master/docs/controller-client-go.md
 
