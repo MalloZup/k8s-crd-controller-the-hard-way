@@ -1,11 +1,17 @@
 # k8s-crd-controller-the-hard-way
-This repo contain information/resources for learning CRD and controller the hard-way
 
-Hi, follow up the step and hope you will learn! :)
+This repo aims to provide you usefull knowledge about extending K8s.
+I will not refer to any framework because you need to learn the basics without frameworks.
 
-### 0) Building controller:
+Feel free to spend pull-request.
+
+# Where to start:
+https://github.com/kubernetes/sample-controller
+
+
+# client unter the hood
+https://github.com/kubernetes/sample-controller/blob/master/docs/controller-client-go.md
+
+
+### Basic example: Building controller:
 https://github.com/kubernetes-sigs/controller-runtime/blob/master/example/main.go
-
-### 1) Kubebuilder
-
-https://book.kubebuilder.io/quick_start.html
